@@ -77,6 +77,8 @@ export default function LoginPage(){
         className="p-2 m-2 border-2 border-blue-300 bg-none rounded-lg text-blue-300 cursor-pointer"
         >Login Here</button>
         <hr />
+        {/* <Link href="/forgotpassword"}>Forgot password</Link>
+        <hr /> */}
        <Link href="/signup">Visit Signup Page</Link>
      </div>   
     )
